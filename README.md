@@ -31,8 +31,12 @@ I specialize in building full-stack web applications, enterprise management plat
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=francisjoel2907-cloud&show_icons=true&theme=radial&hide_border=true" alt="Francis's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisjoel2907-cloud&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
+  <a href="https://github.com/francisjoel2907-cloud">
+    <img src="https://github-readme-stats.vercel.app/api?username=francisjoel2907-cloud&show_icons=true&theme=radial&hide_border=true" alt="Francis's GitHub Stats" width="400" />
+  </a>
+  <a href="https://github.com/francisjoel2907-cloud">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisjoel2907-cloud&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="400" />
+  </a>
 </p>
 
 ---
