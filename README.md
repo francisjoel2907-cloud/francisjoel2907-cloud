@@ -4,7 +4,6 @@
 
 I specialize in building full-stack web applications, enterprise management platforms, and robust system architectures using **React**, **TypeScript**, **Node.js**, **Express**, **Prisma**, **PostgreSQL**, and **MongoDB**.
 
-
 ---
 
 ## 🛠️ Technical Stack & Tools
@@ -28,16 +27,14 @@ I specialize in building full-stack web applications, enterprise management plat
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Core Competencies & Stack Summary
 
-<p align="center">
-  <a href="https://github.com/francisjoel2907-cloud">
-    <img src="https://github-readme-stats.vercel.app/api?username=francisjoel2907-cloud&show_icons=true&theme=radial&hide_border=true" alt="Francis's GitHub Stats" width="400" />
-  </a>
-  <a href="https://github.com/francisjoel2907-cloud">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisjoel2907-cloud&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="400" />
-  </a>
-</p>
+| Domain | Core Technologies |
+| :--- | :--- |
+| **Frontend** | React 18, TypeScript, Tailwind CSS, Shadcn UI, Vite |
+| **Backend** | Node.js, Express.js, RESTful APIs, JWT Authentication |
+| **Databases** | PostgreSQL, Prisma ORM, MongoDB (Mongoose) |
+| **Deployment** | Vercel, Render, Git / GitHub CI/CD Workflows |
 
 ---
 
